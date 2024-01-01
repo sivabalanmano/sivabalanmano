@@ -1,5 +1,6 @@
 # 💫 Hi Iam Sivabalan
-🔭 I’m currently working on Golspho<br>👯 I’m looking to collaborate on Project<br>🌱 I’m currently learning Web3<br>⚡ Fun fact I am Left Hander
+🔭 I’m currently working on Golspho<br>👯 I’m looking to collaborate on Project<br>🌱 I’m currently learning Web3<br> 📫 How to reach me **siva08082001@gmail.com**<br>
+⚡ Fun fact I am Left Hander
 
 
 ## 🌐 Socials:
