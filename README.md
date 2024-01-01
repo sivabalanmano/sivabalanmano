@@ -1,4 +1,5 @@
-# 💫 Hi Iam Sivabalan
+# <h1 align="center">Hi 👋, I'm Sivabalan</h1>
+<h3 align="center">A passionate web developer from India</h3>
 🔭 I’m currently working on Golspho<br>👯 I’m looking to collaborate on Project<br>🌱 I’m currently learning Web3<br> 📫 How to reach me **siva08082001@gmail.com**<br>
 ⚡ Fun fact I am Left Hander
 
